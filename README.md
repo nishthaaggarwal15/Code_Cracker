@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # CodeCracker: A Competitive Programming Tracker
 
@@ -42,3 +43,7 @@ CodeCracker is a web application that tracks and visualizes user stats from comp
 
 ## Deployment
 - Use platforms like Vercel for the frontend and Heroku for the backend.
+=======
+# Code_Cracker
+CodeCracker is a web app that tracks competitive programming progress across platforms like Codeforces, LeetCode, and CodeChef. It fetches user stats via APIs and displays them with visualizations like charts. Built with React, Node.js, and Chart.js for data insights.
+>>>>>>> aa83255ca9e3f37225a5884031d107d1c4eae29e
