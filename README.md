@@ -1,12 +1,10 @@
-<<<<<<< HEAD
+# CodeCracker
 
-# CodeCracker: A Competitive Programming Tracker
-
-CodeCracker is a web application that tracks and visualizes user stats from competitive programming platforms like Codeforces.
+CodeCracker is a web app that tracks competitive programming progress across platforms like Codeforces, LeetCode, and CodeChef. It fetches user stats via APIs and displays them with visualizations like charts. Built with React, Node.js, and Chart.js for data insights.
 
 ## Features
 - Fetch user stats such as problems solved, ratings, and streaks.
-- Visualize progress using charts.
+- Visualize progress using interactive charts.
 - Responsive design with a modern UI.
 
 ## Tech Stack
@@ -27,23 +25,16 @@ CodeCracker is a web application that tracks and visualizes user stats from comp
    npm install
    cd ../server
    npm install
-   ```
-3. Start the backend server:
-   ```bash
-   cd server
-   node server.js
-   ```
-4. Start the frontend development server:
-   ```bash
-   cd client
-   npm start
-   ```
+Start the backend server:
 
-5. Open `http://localhost:3000` in your browser.
+bash
+Copy code
+cd server
+node server.js
+Start the frontend development server:
 
-## Deployment
-- Use platforms like Vercel for the frontend and Heroku for the backend.
-=======
-# Code_Cracker
-CodeCracker is a web app that tracks competitive programming progress across platforms like Codeforces, LeetCode, and CodeChef. It fetches user stats via APIs and displays them with visualizations like charts. Built with React, Node.js, and Chart.js for data insights.
->>>>>>> aa83255ca9e3f37225a5884031d107d1c4eae29e
+bash
+Copy code
+cd client
+npm start
+Open http://localhost:3000 in your browser.
